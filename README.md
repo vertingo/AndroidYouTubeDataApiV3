@@ -8,7 +8,9 @@ Télécharger le fichier .JAR à l'adresse suivante: https://developers.google.c
 Dézipper le contenu et dans votre projet Android en sélectionnant le dossier app + clic droit dans votre arborescence de votre projet à gauche! 
 Faites New → Module → Import an existing JAR package → Sélectionner le fichier .JAR du YouTube Android Player télécharger normalement appelé : YouTubeAndroidPlayerApi-1.2.2.zip
 
-![alt tag](http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Android%20You%20Tube%20Data%20API/Android_Library.png)
+<p align="center">
+  <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Android%20You%20Tube%20Data%20API/Android_Library.png"/></a>
+</p>
   
 Intégrer Data API V3 You Tube dans votre Application Android Ajouter également les dépendances à votre projet en cliquant sur File → Project Structure:
 
