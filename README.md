@@ -53,9 +53,10 @@ C:\Program Files\Android\Android Studio\jre\jre\bin\keytool Chemin vers le fichi
 
 ```
 Un petit coup de pouce suivez nous sur YouTube et Facebook!
-[You Tube] ==> https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1 ![alt tag](http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Android%20You%20Tube%20Data%20API/youtube%20(2).png)
-[Facebook] ==> https://www.facebook.com/vertingo/ ![alt tag](http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Android%20You%20Tube%20Data%20API/rejoins_nous.png)
+[You Tube] ==> https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1 
+[Facebook] ==> https://www.facebook.com/vertingo/ 
 ```
+![alt tag](http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-detelechargement/Android%20You%20Tube%20Data%20API/youtube%20(2).png) ![alt tag](http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Android%20You%20Tube%20Data%20API/rejoins_nous.png)
   
 
 
