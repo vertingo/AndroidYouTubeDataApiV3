@@ -5,7 +5,7 @@
 + <a href="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Pdf_De_Formation_Utiles/Pdf_MyListAdapter.pdf" target="_blank">Création d'un menu sous forme de liste adaptable en fonction de la taille des items afficher!</a> 
 + <a href="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Pdf_De_Formation_Utiles/DeploiementEtApk.pdf" target="_blank">Comment générer et deployer un fichier APK signé sur Android Studio!</a>
 
-# 🌐 Intégration de YouTube Data API V3 dans une application Android! [App Progress Status](https://img.shields.io/badge/Status-Finished-0520b7.svg?style=plastic)
+# 🌐 Intégration de YouTube Data API V3 dans une application Android![App Progress Status](https://img.shields.io/badge/Status-Finished-0520b7.svg?style=plastic)
 
 1)Importation du YouTube Android Player à votre projet Android! 
 Télécharger le fichier .JAR à l'adresse suivante: https://developers.google.com/youtube/android/player/downloads/YouTubeAndroidPlayerApi-1.2.2.zip 
