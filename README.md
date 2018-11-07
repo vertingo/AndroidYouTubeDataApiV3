@@ -1,6 +1,6 @@
 
 Ci-dessous regroupement des différents cours sur Android:
-+ <a href="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Pdf_De_Formation_Utiles/AndroidStudioDiapo.pdf" target="_blank">Pdf sur les bases d'Android Studio!</a>
++ <a href="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Pdf_De_Formation_Utiles/AndroidStudioDiapo.pdf" target="_blank">PDF sur les bases d'Android Studio!</a>
 + <a href="https://github.com/vertingo/PDFViewerAndScreenshot" target="_blank">Système d'aperçu de fichier PDF et capture d'écran!</a> 
 + <a href="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Pdf_De_Formation_Utiles/Pdf_MyListAdapter.pdf" target="_blank">Création d'un menu sous forme de liste adaptable en fonction de la taille des items afficher!</a> 
 + <a href="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Pdf_De_Formation_Utiles/DeploiementEtApk.pdf" target="_blank">Comment générer et deployer un fichier APK signé sur Android Studio!</a>
