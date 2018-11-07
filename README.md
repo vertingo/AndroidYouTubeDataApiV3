@@ -9,45 +9,45 @@ Dézipper le contenu et dans votre projet Android en sélectionnant le dossier a
 Faites New → Module → Import an existing JAR package → Sélectionner le fichier .JAR du YouTube Android Player télécharger normalement appelé : YouTubeAndroidPlayerApi-1.2.2.zip
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Android%20You%20Tube%20Data%20API/Android_Library.png"/></a>
+  <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Android_You_Tube_Data_API/Android_Library.png"/></a>
 </p>
   
 Intégrer Data API V3 You Tube dans votre Application Android Ajouter également les dépendances à votre projet en cliquant sur File → Project Structure:
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Android%20You%20Tube%20Data%20API/Project%20Structure.png"/></a>
+  <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Android_You_Tube_Data_API/Project%20Structure.png"/></a>
 </p>
 
 Et ensuite ajouter les dépendances à votre projet comme illustrer ci-dessous!
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Android%20You%20Tube%20Data%20API/Project%20Structure%20Dependancy.png"/></a>
+  <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Android_You_Tube_Data_API/Project%20Structure%20Dependancy.png"/></a>
 </p>
   
 Intégrer Data API V3 You Tube dans votre Application Android Récupérer votre clé API sur Google Cloud Platform!(Créer un Projet si ce n'est pas déjà fait!)
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Android%20You%20Tube%20Data%20API/app-store.jpg"/></a>
+  <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Android_You_Tube_Data_API/app-store.jpg"/></a>
 </p>
   
 Intégrer Data API V3 You Tube dans votre Application Android Récupérer votre clé API sur Google Cloud Platform!(Créer un Projet si ce n'est pas déjà fait!)
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Android%20You%20Tube%20Data%20API/app-store2.jpg"/></a>
+  <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Android_You_Tube_Data_API/app-store2.jpg"/></a>
 </p>
   
 Intégrer Data API V3 You Tube dans votre Application Android Rendez-vous dans le menu Identifiants puis Créer des identifiants!
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Android%20You%20Tube%20Data%20API/app-store3.jpg"/></a>
+  <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Android_You_Tube_Data_API/app-store3.jpg"/></a>
 </p>
 
 Sélectionner dans le sous-menu Créer des identifiants → Clé Api 
 
-![alt tag](http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Android%20You%20Tube%20Data%20API/app-store4.jpg)
+![alt tag](http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Android_You_Tube_Data_API/app-store4.jpg)
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Android%20You%20Tube%20Data%20API/app-store4.jpg"/></a>
+  <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Android_You_Tube_Data_API/app-store4.jpg"/></a>
 </p>
   
 Intégrer Data API V3 You Tube dans votre Application Android Cliquer sur restreindre la clé!
@@ -83,7 +83,8 @@ Un petit coup de pouce suivez nous sur YouTube et Facebook!
 ```
   
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Android%20You%20Tube%20Data%20API/youtube2.png" width="400" height="250"/></a>
-  <a href="https://www.facebook.com/vertingo/"><img src="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Android%20You%20Tube%20Data%20API/rejoins_nous.png" width="400" height="250"/></a>
+  <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="https://platform-media.herokuapp.com/assets/images/reseaux-sociaux/youtube2.png" width="400" height="250"/></a>
+  <a href="https://www.facebook.com/vertingo/"><img src="https://platform-media.herokuapp.com/assets/images/reseaux-sociaux/rejoins_nous.png" width="400" height="250"/></a>
 </p>
+
 
