@@ -1,3 +1,4 @@
+![Image](https://raw.githubusercontent.com/vertingo/Easy_Admin_YouTube_Newsletter_Firebase/master/web/assets/images/github/vertin_go_website.jpg)
 # 🌐 Regroupement des différents cours sur Android!
 
 + <a href="http://vertin-go.com/Fonctions_Annexes/annexes/pdt-page-de-telechargement/Pdf_De_Formation_Utiles/AndroidStudioDiapo.pdf" target="_blank">PDF sur les bases d'Android Studio!</a>
